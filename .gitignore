@@ -1,10 +1,2 @@
-*.dump
-old
-deps
-rel
-docs
-Examples
-log
-*.beam
-*~
+ebin
 .eunit/
